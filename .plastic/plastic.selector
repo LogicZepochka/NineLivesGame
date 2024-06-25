@@ -1,0 +1,4 @@
+repository "NineLivesDemo@Maximumsad@cloud"
+  path "/"
+    br "/main"
+    co "/main"

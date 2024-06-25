@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: de98f01516b87ac4d90681c77d9a51fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maze111-export_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d17adaf8f59ca408457e2a336ce18c
+      internalID: 40289283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad017b36aa45d1458f5143e988b7d54
+      internalID: -1982580546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09004bca9df214d96042bec725f652
+      internalID: 2120298499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7d5cbd395c9445ad97bc99459e5e0
+      internalID: 914552493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735fc31ce16e2c428b222d4cc3a163c
+      internalID: -1716747685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc0c135d4b86a46878a82370ce2fde
+      internalID: -1932690476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ffe01b6cab44e45837f41ee3edb038
+      internalID: 130899602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2391f7859d290494ea398aacdad5f243
+      internalID: -594657176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c2ed810f4a6f742aae19207a99b596
+      internalID: -120371487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f4b8123396fd428ed247463aa7b78
+      internalID: 1688841720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89e5d9f907f4d641916aef5170798de
+      internalID: 2147320945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d40ea2c4f42e41bec3c2b874e5ceb
+      internalID: 585978038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d2e0c19087a246bfed578e2c410b0
+      internalID: -809414494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b800812d8238fa4b9b22ae1cf66f8ca
+      internalID: -1155976493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_140
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 96
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2d0fc1ba71af439beafddaee7e8a4
+      internalID: 187514871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maze111-export_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b282998b7dbd742a33e827ee8e5274
+      internalID: 2023318080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      maze111-export_0: 642531864
+      maze111-export_1: -864297985
+      maze111-export_10: 2139737885
+      maze111-export_100: 259807594
+      maze111-export_101: 1974268758
+      maze111-export_102: 1740121159
+      maze111-export_103: -1130734774
+      maze111-export_104: 585978038
+      maze111-export_105: 314117331
+      maze111-export_106: -809414494
+      maze111-export_107: 868909290
+      maze111-export_108: 299641498
+      maze111-export_109: 1875110394
+      maze111-export_11: -561235856
+      maze111-export_110: 1470151412
+      maze111-export_111: 1740563470
+      maze111-export_112: 1035846860
+      maze111-export_113: -168819301
+      maze111-export_114: 1598215871
+      maze111-export_115: -784793708
+      maze111-export_116: -1358912264
+      maze111-export_117: 1504571344
+      maze111-export_118: 1368026133
+      maze111-export_119: 1801205306
+      maze111-export_12: -1175527982
+      maze111-export_120: -193934774
+      maze111-export_121: 791366417
+      maze111-export_122: 945602445
+      maze111-export_123: 1135682580
+      maze111-export_124: 60626495
+      maze111-export_125: -2068460831
+      maze111-export_126: -1456029241
+      maze111-export_127: 1637909911
+      maze111-export_128: -1040683998
+      maze111-export_129: -891964705
+      maze111-export_13: -667286485
+      maze111-export_130: -1697633826
+      maze111-export_131: 1810430079
+      maze111-export_132: 748095852
+      maze111-export_133: 1466274086
+      maze111-export_134: 1513563754
+      maze111-export_135: 1213952265
+      maze111-export_136: -2139024857
+      maze111-export_137: -970294567
+      maze111-export_138: -1155976493
+      maze111-export_139: 1147602396
+      maze111-export_14: -2055067909
+      maze111-export_140: 187514871
+      maze111-export_141: 1674478938
+      maze111-export_142: -299757959
+      maze111-export_143: -243482638
+      maze111-export_144: -991118152
+      maze111-export_145: -1245996614
+      maze111-export_146: 2023318080
+      maze111-export_147: 736827328
+      maze111-export_15: 138652238
+      maze111-export_16: -185982355
+      maze111-export_17: 1579994181
+      maze111-export_18: 947949328
+      maze111-export_19: 1156131971
+      maze111-export_2: 384667923
+      maze111-export_20: 1292470736
+      maze111-export_21: 66690916
+      maze111-export_22: -1700964577
+      maze111-export_23: 1637799448
+      maze111-export_24: 1219383595
+      maze111-export_25: -1388777848
+      maze111-export_26: 1889246858
+      maze111-export_27: 1421414338
+      maze111-export_28: -708595323
+      maze111-export_29: -776944711
+      maze111-export_3: 1107610899
+      maze111-export_30: -588378498
+      maze111-export_31: -126014016
+      maze111-export_32: -50103963
+      maze111-export_33: -468250517
+      maze111-export_34: -167211830
+      maze111-export_35: -1009789535
+      maze111-export_36: 773499480
+      maze111-export_37: -1717456171
+      maze111-export_38: 2084194697
+      maze111-export_39: -1767509656
+      maze111-export_4: 1565306918
+      maze111-export_40: -1318852271
+      maze111-export_41: -715537216
+      maze111-export_42: 233897845
+      maze111-export_43: -1929595109
+      maze111-export_44: 1723534864
+      maze111-export_45: -1700555108
+      maze111-export_46: 589022664
+      maze111-export_47: 1158941274
+      maze111-export_48: 40289283
+      maze111-export_49: 1275663421
+      maze111-export_5: -1435668695
+      maze111-export_50: -1982580546
+      maze111-export_51: -1308033572
+      maze111-export_52: 2120298499
+      maze111-export_53: 1706095274
+      maze111-export_54: 914552493
+      maze111-export_55: -1469119175
+      maze111-export_56: -1716747685
+      maze111-export_57: 63355136
+      maze111-export_58: -1932690476
+      maze111-export_59: -46197668
+      maze111-export_6: -1710616308
+      maze111-export_60: 1125988286
+      maze111-export_61: -488963993
+      maze111-export_62: -126653901
+      maze111-export_63: 534689936
+      maze111-export_64: -1040871074
+      maze111-export_65: 657195379
+      maze111-export_66: -1848442566
+      maze111-export_67: 1237238959
+      maze111-export_68: -997013941
+      maze111-export_69: -2021848335
+      maze111-export_7: -257430153
+      maze111-export_70: 973573688
+      maze111-export_71: -1465910050
+      maze111-export_72: 1486424548
+      maze111-export_73: 130899602
+      maze111-export_74: -594657176
+      maze111-export_75: -120371487
+      maze111-export_76: -614099840
+      maze111-export_77: 718824451
+      maze111-export_78: -1986852905
+      maze111-export_79: -660839667
+      maze111-export_8: 1640640775
+      maze111-export_80: -1130891962
+      maze111-export_81: -1803925242
+      maze111-export_82: 1688841720
+      maze111-export_83: -920246441
+      maze111-export_84: 2147320945
+      maze111-export_85: 1498064405
+      maze111-export_86: 1317557820
+      maze111-export_87: -434376327
+      maze111-export_88: 1756610742
+      maze111-export_89: 833963814
+      maze111-export_9: 1917872599
+      maze111-export_90: 1611428236
+      maze111-export_91: 820353636
+      maze111-export_92: 484297494
+      maze111-export_93: -2092835783
+      maze111-export_94: -1791173451
+      maze111-export_95: 1836432623
+      maze111-export_96: 562362643
+      maze111-export_97: 271587825
+      maze111-export_98: 166012039
+      maze111-export_99: -1204366835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
