@@ -17,7 +17,7 @@ public class PushableObject : MonoBehaviour
         initialPosition = transform.position;
     }
 
-    void Update()
+    void FixedUpdate() // Update -> FixedUpdate (Физику происчитываем тута, меньше вызовов)
     {
         if (isPushed)
         {
